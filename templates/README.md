@@ -1,0 +1,20 @@
+# Visit Puerto Rico
+
+### Video demo: https://youtu.be/iWe3ewTNA9Q
+
+##### Description: My final project is a website centered around Puerto Rico tourism. I wanted my project to have a modern touch to it, but something I felt was on my level of expertise. My project is mostly made with HTML and CSS, with a small touch of Javascript to provide the project with some funtionality.
+
+##### The first file of my project, is the index file. This is the home page of my project. It contains a nice background video with an navigation bar that is using an overlay affect. I then added the Puerto rican flag as a logo to make the navigation stand out. At first I was aiming to use a regular jpeg photo as the background of the file, but i decided to change course after getting some inspiration from other websites. I then added the > let's go > button with a hover animation to add some creativity to the page.
+
+##### The second file of my project is the activities file. This page has more content than the first page. This page has a navigation bar as well, but with a black background color , unlike the home page. Beneath that is the title of the page with a background image that uses a parallax scrolling affect. Notice that the title of the page has some text-shadowing to make the title pop. The first half of the page talks about the culture and festiveness of the island. I used grid rows to sort of change the layout of the page. I then made two explore buttons more for decoration than functionality. They don't contain hyper-reference links. 
+
+
+##### The second half of the file talks about the different activities that tourists can engage in if they ever decide to visit the island in the future.  Below the > popular amenities > paragraph is a button that links to the last page of the project. There are a total of four activities listed with small captions contained in each image and a brief description of the activity listed. At the very bottom of the page, I decided to incorporate a footer to make the site look more professional. The buttons within the footer don't actually lead the user anywhere just as the > explore > buttons. The footer also contains an e-mail sign-up field and button, but doesn't actually register the user to the newsletter. Within the descriptions of the listed activities, I used span tags to highlight what I thought was important or interesting information. I also thought that the span tags would make the page pop a little more.
+
+
+##### The last file of my project is the landmarks file. This file is not too much different from the activities file aside from the fact that the content of the page is different. This file contains information of the most popular historic landmarks of the San Juan area of Puerto Rico. Like the activities page I used the same navigation bar and parallax scrolling affect for the background image. I did this solely for the purpose of having some consistency within my project. This page does not use the grid-row layout. The layout is from top-to-bottom like the second half of the activities page. 
+
+##### Again I used span tags to highlight important or interesting information. There is only one button within this file and that is the > BOOK YOUR FLIGHT HERE > button. Like the, > PUERTO RICO LANDMARKS > button, it has a nice and simple hover animation and changes color. This button takes the user to google flights incase the user actually does decide to purchase a ticket to Puerto Rico. The last thing I decided to add to my project was the > back-to-top > button. It was very monotonous scrolling to the top of the page all the time, so I thought it would be a nice touch to the project. This is where the javascript finally comes into the equation.
+
+
+##### As stated earlier, the project is mostly HTML and CSS, with a touch of javascript. Within the HTML is mostly div tags, nav tags, img tags, heading tags, paragraph tags, and anchor tags. There are many classes and a few unique id's, but that makes up about 90% of my project.
